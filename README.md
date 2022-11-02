@@ -1,4 +1,4 @@
-# chrome-HistoryDeleter
+# chrome-HistoryDeleterr
 
 Automatically delete only the history of URLs that match the pattern.
 
